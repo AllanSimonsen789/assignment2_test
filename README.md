@@ -36,13 +36,16 @@ press on the mouse wheel and move the mouse up and down.
 
 The Nissan Airbag glitch.
 Nissan has reportedly recalled countless airbag units from their cars the last 3 years.
-This was due to software glitch where the airbag did not register that an person was sitting in the passenger seat, and not inflate properly during accidents.
+This was due to a software glitch where the airbag did not register that a person was sitting in the passenger seat, and not inflate properly during accidents.
 
-To fix this we could do the following steps.
+To fix this we could do the following steps:
 
 unit testing the sensor.(should be done the manufactor of the sensor)
+
 Unit testing the code that triggers the airbag.
+
 integration with the sensor, test the information from the sensor can actually be read an processed by the airbag.
+
 manual test of the sensor in the seat with a crash test dummy.
 
 
