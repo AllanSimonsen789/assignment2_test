@@ -3,21 +3,36 @@
 ## 1.1 Computer mouse
 
 1. plug-in the mouse to a computer
+
 *Test 1: Does the computer register the mouse
+
 2. Move the mouse up and down. Left and right. and diagonally.
+
 *Test 2: The cursor on the screen moves corresponding to the movement described above. 
+
 3. Move the cursor over a icon on the computer. press the left mouse button. (prerequisites: the cursor is on a icon)
+
 *Test 3: The icon should be in focus(highlighted) after the left button click.
+
 4. press the Right mouse button. (prerequisites: the cursor is on a icon)
+
 *Test 4: The icon should be highlighted and a sub menu should open on the icon.
+
 5. Open a webbrowser of you choice and go to a website of your choosing. 
+
 Scroll on the mousewheel up and down. 
+
 press on the mouse wheel and move the mouse up and down.
+
 *Test 5: The webpage should scroll up and down according to your movement on the mouse wheel.
+
 6. (optional) Go to a new webpage. Press one of the the buttons on the side of the mouse, right above your thumb. After press the other one.
+
 *Test 6: The webpage should load the previous webpage then go back to the new webpage when pressing the second button.
 
+
 More optional test:
+
 Test 2: Test different surfaces with the movement described in test 2. Try desktop table, mousepad, book, magazine, chair, pants, floor etc.
 
 ## 1.2 CATASTROPHIC FAILURE
