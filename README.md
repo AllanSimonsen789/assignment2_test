@@ -9,6 +9,7 @@
 2. Move the mouse up and down. Left and right. and diagonally.
 
 *Test 2: The cursor on the screen moves corresponding to the movement described above. 
+*Test 2.1: Test different surfaces with the movement described in test 2. Try desktop table, mousepad, book, magazine, chair, pants, floor etc.
 
 3. Move the cursor over a icon on the computer. press the left mouse button. (prerequisites: the cursor is on a icon)
 
@@ -30,10 +31,6 @@ press on the mouse wheel and move the mouse up and down.
 
 *Test 6: The webpage should load the previous webpage then go back to the new webpage when pressing the second button.
 
-
-More optional test:
-
-Test 2: Test different surfaces with the movement described in test 2. Try desktop table, mousepad, book, magazine, chair, pants, floor etc.
 
 ## 1.2 CATASTROPHIC FAILURE
 
