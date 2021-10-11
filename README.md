@@ -40,13 +40,13 @@ This was due to a software glitch where the airbag did not register that a perso
 
 To fix this we could do the following steps:
 
-unit testing the sensor.(should be done the manufactor of the sensor)
+unit testing the sensor.(should be done by the manufacturer of the sensor)
 
 Unit testing the code that triggers the airbag.
 
-integration with the sensor, test the information from the sensor can actually be read an processed by the airbag.
+integration test with the sensor, test that the information from the sensor can actually be read an processed by the airbag.
 
-manual test of the sensor in the seat with a crash test dummy.
+manual test of the sensor with a crash test dummy in the seat.
 
 
 # 2 Two Katas
