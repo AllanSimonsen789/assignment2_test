@@ -2,9 +2,9 @@
 
 ## 1.1 Computer mouse
 
-1. plug-in the mouse to a computer
+1. plug-in the mouse to a computer via the usb port
 
-*Test 1: Does the computer register the mouse
+*Test 1: Does the computer register the mouse as an input device
 
 2. Move the mouse up and down. Left and right. and diagonally.
 
